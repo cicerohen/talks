@@ -1,0 +1,24 @@
+
+[submodule "talk-css-without-tears-with-flexbox"]
+	path = talk-css-without-tears-with-flexbox
+	url = git@github.com:cicerohen/talk-css-without-tears-with-flexbox.git
+	update = merge
+[submodule "talk-developing-with-a-testing-mindset"]
+	path = talk-developing-with-a-testing-mindset
+	url = git@github.com:cicerohen/talk-developing-with-a-testing-mindset.git
+	update = merge
+[submodule "talk-get-started-with-webpack"]
+	path = talk-get-started-with-webpack
+	url = git@github.com:cicerohen/talk-get-started-with-webpack.git
+	update = merge
+[submodule "talk-handling-redux-side-effects"]
+	path = talk-handling-redux-side-effects
+	url = git@github.com:cicerohen/talk-handling-redux-side-effects.git
+	update = merge
+[submodule "talk-state-machines-with-xstate"]
+	path = talk-state-machines-with-xstate
+	url = git@github.com:cicerohen/talk-state-machines-with-xstate.git
+	update = merge
+[submodule "talk-reusability-with-hooks"]
+	path = talk-reusability-with-hooks
+	url = git@github.com:cicerohen/talk-reusability-with-hooks.git
